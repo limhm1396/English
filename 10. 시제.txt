@@ -1,0 +1,211 @@
+[현재] - I do it.
+1. 현재의 상태
+I am a student.
+I am tired.
+I am in my room.
+I love chocolate.
+I have a car.
+I know your name.
+*상태동사를 현재시제로 쓰면 주어의 현재 상태를 표현한다.
+
+2. 습관, 경향, 직업
+I eat breakfast.(습관)
+Babies cry all the time.(경향)
+I teach English.(직업)
+*동작동사의 현재형은 주어의 습관, 경향, 직업을 나타낸다.
+
+3. 진리, 과학적 사실, 속담
+The earth is round.
+The earth moves around the sun.
+Water boils at 100'c.
+Old habits die hard.
+Once bit, twice shy.
+
+4. 이미 예정된 일
+My EBS lecture comes on Sunday at 8 am.
+This program airs every Sunday.
+*이미 정해진 스케줄은 현재시제로 미래를 나타낼 수 있다.
+The performance starts at 7 o'clock.
+The bus leaves at 8:30 in the morning.
+*왕래발착동사도 현재형으로 미래를 대신해서 쓸 수 있다.
+
+5. 현장감을 표현할 때
+He opens the window and feels the wind.
+She throws the noodle in the pot and stirs it with chopsticks.
+He kicks off his back leg and stretches his front one to support the throw.
+
+[현재진행] - I am doing it.
+V -> be V-ing = ~하는 중이다.
+I am running.
+I am studying.
+I am cooking.
+*지금 당장하고 있는 거라면 현재진행형을 쓰면 된다.
+*상태동사는 따로 진행형을 만들어 쓰지 않는다.
+I am thinking.
+*동사의 의미를 강조하기 위해 상태동사를 현재진행형으로 쓰는 예외적인 경우도 있다.
+
+1. 지금 당장 일어나고 있는 행위
+It's raining outside.
+He is washing the dishes.
+
+2. 습관적으로 자주 일어나는 행위
+You are always eating snacks before dinner.
+She is always making the same grammar mistakes.
+
+I am studing in visual design.
+I am writing a book.
+*직업/전공 등을 현재진행형으로 표현하기도 한다.
+
+3. 가까운 미래
+I am moving to Seoul soon!
+I am coming!
+
+
+[현재완료] - I have done it.
+V -> has/have PP
+과거에 시작된 일이 현재까지 영향을 미치는 경우.
+과거부터 시작된 일이 현재 시점까지 이어져서 현재시점에 완료된다.
+= ~했다.
+
+1. 결과적 용법
+과거에 일어난 일의 결과가 현재에도 영향을 미칠 때 사용
+= ~해본 적 있다.
+I've lost my cell phone.
+I've lost three kilograms.
+You've become my best friend.
+
+2. 경험적 용법
+과거부터 지금까지 한번이라도 겪은 적 있는 특정 경험
+Have you been to Europe? / I only have been to France twice.
+Have you seen that movie? / No, I haven't! Is it good?
+Have ypu met Ted? / Yes, I have. Hi Ted!
+
+3. 완료적 용법
+현재와 매우 가까운 과거에 완료된 일을 표현
+= 방금 막 ~했다.
+I've just finished reading a book.
+I have already paid off all my loan.
+
+4. 계속적 용법
+과거에 일어난 일이 현재까지 지속되고 있는 경우
+= 지금까지 ~해왔다.
+I've studied English since I was 17.
+We have been together for five years now.
+
+[현재완료진행] - I have been doing it.
+V -> have been V-ing
+= 지금까지 ~하는 중이다.
+I have been studying English for 11 days with Banana teacher.
+
+[과거] - I did it.
+V -> V-ed
+
+1. 과거에 있었던 일
+I had lunch before.
+I finished my homework last night.
+I met her yesterday.
+
+2. 역사적인 사실
+King Sejong the Great created Hangul.
+On August 15 in 1945, Korea was liverated.
+
+used to V: (규칙적으로) ~했었다.
+I used to go to church.
+
+would V: (불규칙적으로) ~했었다.
+I would go to church.
+
+[과거진행] - I was doing it.
+V -> was/were V-ing
+과거의 한 시점에 진행 중이었던 일
+I was working out.
+
+[과거완료] - I had done it.
+과거 = V-ed / 더 과거 = had PP
+A and B had started their relationship in 2019 but they broke up in 2020.
+
+1. 결과적 용법
+더 과거에 있었던 일의 결과가 과거 시점까지 영향을 줄 때
+When he came to see me, he had dyed his hair.
+I had lost my cell phone when he called me.
+
+2. 경험적 용법
+더 과거에 일어난 일의 결과가 가까운 과거까지 영향을 끼칠 때
+I had never had a girfriend until 40.
+I was the only one who had had kangaroo meat.
+
+3. 완료적 용법
+과거와 매우 가까운 과거에 완료된 일을 표현할 때
+When I wanted to get back with him, he had already moved on.
+Public transport had stopped running so I took a taxi.
+
+4. 계속적 용법
+더 과거에 일어난 일이 특정 과거 시점까지 지속되었을 때
+They had been together for 5 years.
+She had not seen him after they broke up.
+
+5. 대과거
+한 문장에서 과거보다 더 과거에 일어난 일을 나타내고 싶을 떄
+The car had been his proudest possession before he got a new one.
+I got back home after he had left.
+
+[과거완료진행] - I had been doing it.
+had been V-ing
+= 그때까지 ~하는 중이었다. / 그때까지 ~해오고 있었다.
+The company had been making plans for new products.
+We had been getting along so well.
+
+[미래] - I will do it.
+will + V / be going to + V = ~할 것이다.
+
+1. be going to + V
+이미 시작되었거나 확실한 계획이 있는 미래
+I am going to see him now.
+I am going to eat a lot tonight.
+I am going to meet John tonight.
+I am going to be 'the Photographer of the Year'.
+
+I am not going to change my mind.
+She is not going to come back.
+
+I am gonna give you a lesson.
+He is gonna be with his wife.
+
+2. will + V
+be going to가 확신에 찬 미래라면 will은 주어의 희망이 담긴 미래
+I will call you later.(조금 거리감이 있는 미래에 일어날 일)
+If you should be in trouble, I will be there for you.(미래의 일에 대한 의지나 결심을 표현)
+It will rain tomorrow.(자연현상/시간의 흐름에 의해 당연히 일어날 미래의 일)
+I will be 30 soon.
+He will be there, right?(미래에 대한 막연한 추측)
+
+3. 왕래발착동사로 미래를 표현
+I am starting my own company.
+He arrives at 10 am.
+
+4. be to 미래 용법
+= ~할 예정이다.
+Arty and Banana are to attend the Christmas party.
+Wendy and Steve are to be married on October 10th.
+
+5. be about to V
+= 지금 막 ~하려고 하다.
+I am about to go get some water.
+She is about ro cry.
+
+[미래진행] - I will be doing it.
+will be V-ing = ~하는 중일 것이다.
+미래의 특정 시점에 하고 있을 일을 예측해서 쓰는 시제
+I will be studing for my final exam this weekend.
+
+[미래완료] - I will have done it.
+will have PP = ~쯤이면 ~한 상태일 것이다.
+과거, 현재, 미래에 일어난 일이 미래의 어느 시점에 완료된 상태일 것을 예상해서 쓰는 시제
+I will have finished my final exam by then.
+After one year, you will have forgotten all of your French.
+At the end of the trip, you will have become a new person.
+By the time you get up, we will have gone.
+
+[미래완료진행] - I will have been doing it.
+will have been V-ing = ~해오는 중일 것이다.
+I will have been living on the street for 10 years next month.

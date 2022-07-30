@@ -1,0 +1,66 @@
+[공통분모]
+문장 가장 앞에 나오는 주어
+주어 바로 뒤에 나오는 동사
+
+[동사]
+문장에서 움직임, 상태, 성질 등을 설명하는 '서술어'
+문장의 핵심 중추 역할
+
+동작이 떠오르면 동작동사, 동작으로 표현이 안되면 상태동사
+* 동작동사: 동작을 나타냄
+* 상태동사: 상태를 나타냄
+
+[주어]
+동사의 주체
+일반적으로 문장 맨 앞에 위치하며 동사 앞에 씀
+주어 자리에 올 수 있는 품사: 명사류
+명사: 이름을 가진 모든 것
+
+[목적어]
+'무엇을' 에 해당하는 단어가 있어야 문장이 완성되는 타동사
+주어와 마찬가지로 올 수 있는 품사는 명사
+만약 인칭대명사가 오면 목적격으로 바꿔야 함
+* 격의 변화: 단어가 어느 자리에 쓰이는지에 따라 모양이 바뀌는 것
+품사 또한 자리에 알맞게 모양을 바꿔줘야 함
+인칭대명사가 주어 자리에 올 때는 주격, 목적어 자리에 올 때는 목적격으로 써야 함
+
+주격 - 소유격 - 목적격 - 소유
+I - my - me - mine
+we - our - us - ours
+you - your - you - yours
+you - your - you - yours
+he - his - him - his
+she - her - her - hers
+it - its - it - X
+they - their - them - theirs
+they - its - it - X
+
+[보어]
+주어나 목적어를 보충 설명하는 역할
+보어 자리에 오는 품사는 주로 명사나 형용사
+
+보어 자리에 명사가 올 때: 주어/목적어와 동격
+She is a doctor -> she = a doctor
+He calls her a doctor -> her = a doctor
+
+보어 자리에 형용사가 올 때: 주어/목적어를 보충 설명
+She is smart -> She = smart
+I found her dead -> her = dead
+
+[2형식 명사보어]
+He became a professor: 그는 교수가 되었다 -> He = a professor
+We are the same age: 우리는 나이가 같다 -> We = the same age
+
+[2형식 형용사보어]
+She is gorgeous: 그너는 아름답다 -> She = gorgeous
+They seem tired: 그들은 피곤해보인다 -> They = tired
+
+[5형식 명사보어]
+They call me a hero: 그들은 나를 영웅이라 부른다 -> me(목적격) = a hero
+I made myself a star: 나는 스스로를 스타로 만들었다 -> myself = a star
+
+[5형식 형용사보어]
+The song made me sad: 그 노래는 나를 슬프게 만들었다 -> me(목적격) = sad
+This coat kept him warm: 이 코트는 그를 따뜻하게 유지했다 -> him(목적격) = warm
+
+become, get, go: ~ 해지다, ~ 한 상태가 되다

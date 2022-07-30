@@ -1,0 +1,207 @@
+[부정]
+1. not: 아니다
+- 일반동사 부정
+I don't have a boyfriend.
+You don't understand what's going on.
+
+- be동사 부정
+I am not your mather.
+It's none of your business.
+
+- not A but B: A가 아니라 B다.
+It's not fun, but a job.
+I didn't study in America, but in Cananda.
+
+- not only A but also B: A뿐만 아니라 B도
+Being with her not onlyt makes me feel comfortable but also good about myself.
+The car is not onlyt economical but very comfortable to drive.
+
+2. never: 절대 아니다
+- 현재시제 + never: 보통 절대 ~를 하지 않는다.
+He is never late.
+He never comes on time.
+
+- 완료시제 + never: 과거부터 현재까지 ~한 경험이 전혀 없다.
+She has never been to Korea.
+She has never had Kimchi in her life.
+
+3. neither: 둘 다 아니다
+- 대명사 neither: 둘 다 아니다.
+Neither of you are correct.
+Baby, would you like to have tea or coffee?
+-> Oh! neither, thanks. I am too full to drink something.
+
+- 한정사 neither: 둘 다 아니다.
+Neither answer is correct.
+Neither shirt fitted him perfectly.
+
+- neither A nor B: A도 B도 아니다.
+He is neither tall nor small.
+I am neither rich nor poor.
+
+- 문장 끝 neither: ~도 아니다.
+Me neither!
+You Neither!
+
+4. rarely = hardly = seldom: 거의 ~않다.
+I rarely talk with her lately.
+She spent hardly any time with her family.
+They seldom see each other tese days.
+
+5. few + 가산명사: 명사가 거의 없다.
+- few: ~가 거의 없다.
+Few people know the meaning of the song.
+He has few personal flaws.
+There are very few cockroaches in my house.
+
+- a few: ~가 조금 있다.
+I met a few people who know the meaning of the song.
+There are a few restaurants where you can eat decent Korean food in Florida.
+I have a few books to read and keep me busy.
+
+6. little + 불가산명사: 명가사 거의 없다.
+- little: ~가 거의 없다.
+I had little money.
+We have little time, so hurry up!
+
+- a little: ~가 조금 있다.
+I had a little money.
+We still have a little time, so don't rush.
+
+[도치]
+1. 의문문 도치
+You like English. -> Do you like English?
+I am your best friend. -> Am I your best friend?
+
+2. 강조의 도치
+- 부정어 도치: 부정어를 문장 맨 앞에 쓰면 주어와 동사의 자리를 바꿔주는 도치
+Little did I dream of being an actor.
+Under no circumstances should you believe him.
+Not onlyt did Arty win the money, but he also became popular.
+Never will I leave you, not forsake you.
+
+- 제한어 도치: Only를 문장 맨 앞에 쓰면 주어와 동사의 자리를 바꿔주는 도치
+Only then did they notice he was listening.
+Only by guessing can you solve this problem.
+Only after finishing your homework can you go home.
+
+- 가정법 도치: if를 지우면 주어와 동사의 자리를 바꿔주는 도치
+Had he seen her, he would have fallen in love with her.
+Should you need any additional information, please call me at your convenience.
+Were I to be late, would you wait for me?
+
+- 양보의 도치
+Even though he had paid much, he still didn't get what he wanted.
+-> As much as he had paid, he still didn't get what he wanted.
+Even though people rated him highly, he didn't get the job.
+-> As much as people rated him highly, he didn't get the job.
+
+Whatever you say, I will not change my mind.
+-> Say whatever you, I will not change my mind.(동사를 앞으로 동치)
+-> Say what you, I will not change my mind.(복합관계사를 일반 접속사로 바꾸기)
+-> Say what you might, I will not change my mind.(주어 뒤에 may/might 등의 조동사 넣기)
+
+Whenever you propose to me, I am ready to say "yes".
+-> Propose to me what you may, I am ready to say "yes".
+
+- 동조의 도치: so, neither, nor + V + S
+He didn't remever and neither did I.
+She didn't call, nor did I.
+He has been to Seoul and so have I.
+
+I am tired. / So am I.
+I don't like rock music. / Neither do I.
+
+3. 형식별 도치
+- 1형식 도치: S + V -> V + S
+There comes a time when you should back off.
+Here is the thing.
+
+There you go!
+Here you are.
+*주어가 대명사일 때 주어와 동사를 도치하지 않는다.
+
+Inthis accursed hous live many ghosts.
+Under the blanket is sleeping my daughter safe and sound.
+
+- 2형식 도치: S + V + C -> C + V + S / S + V + C -> C + as + S + V
+Wonderful is the way I fell.
+Happy is the bride on whom the sun shines.
+
+Rich as she is, she never takes a taxi.
+Sweet as she is, she doesn't like kids.
+*문장 앞에 보어는 명사와 형용사만 가능
+
+- 3형식 도치: S + V + O -> O + S + V or O + V + S
+I did what I had to do without hesitation.
+-> What I had to do, I did without hesitation.
+
+"It's too heavy for me" said John.
+"I don't like it" said Jane.
+
+- 5형식 도치: S + V + O + OC -> S + V + OC + O or OC + S + V + O
+*거의 안쓴다고 한다.
+The success of the low-cost airlines made affordable world travel for the poor.
+Fighting on the phone frequently, made worse their relationship as business partners.
+Finishing my master's degree in America made possible the idea of finding a job in America.
+
+Enclosed you will find a copy of my resume and a reference letter.
+Attached you will find the map to our office.
+
+[강조]
+1. 부정문 강조
+at all, a bit, in the least
+I have no feelings for him at all/
+I don't worry in the least.
+
+2. 의문문 강조
+on earth, in the world, the hell
+Why on earth would you say such a thing?
+Where the hell are you?
+
+3. 비교급 강조
+even, much, far
+She is even taller than her father.
+I feel much better after taking a pill.
+
+4. 최상급 강조
+much, very, by far
+Using a dictionary is the very best way to extend your vocabulary.
+The korean food delivery system is by far the fastest in the world.
+
+5. 동사 강조
+I do know what you have done for me.
+He did study hard.
+Do be careful!
+
+6. 명사 강조
+This is the very momnet I've been waiting for.
+This is my very best friend, Martin.
+
+I myself cooked this soup!
+
+7. it be + 강조 부분 + that + 나머지
+I studied English with my teacher, Banana.
+It was I that studied English with my teacher, Banana.(주어 강조)
+It was English that I studied with my teacher, Banana.(목적어 강조)
+It was with my teacher, Banana that I studied English.(부사구 강조)
+
+[생략]
+- 한 문장 안에 같은 어구가 두 번 이상 반복될 때
+I want to join you but I can't (join you).
+I can visit you anytime you want me to (visit you).
+
+- 부사절접속사 뒤의 S + be동사는 생략 가능
+Call me when (it is) necessary.
+You need to pay an extra entrance fee unless (you are) invited.
+
+- I think, you think 등의 삽입절이 있으면 주격관계대명사도 생략 가능
+She is the one (who) I think cheated on her husband.
+
+- the 비교급 문장에서 be동사 혹은 주어와 동사를 통째로 생략
+The longer the life (is), the more the shame (is).
+The more (one has), the merrier (it is).
+
+[삽입]
+His treatise on English literature was, I think, brilliant.
+I didn't forget his birthday; in fact I gave him a gift!

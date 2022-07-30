@@ -1,0 +1,84 @@
+[영어 문장의 5형식]
+1형식: S + V -> 완전자동사
+2형식: S + V + SC -> 불완전자동사
+3형식: S + V + O -> 완전타동사
+4형식: S + V + IO + DO -> 수여동사
+5형식: S + V + O + OC -> 불완전타동사
+
+(S:주어 / V: 동사 / SC: 주격보어 / O: 목적어 / IO: 간접목적어 / DO: 직접목적어 / C: 보어 / OC: 목적격보어)
+
+자동사: 동사가 나타내는 동작이 주어에만 미치는 동사
+타동사: 동작의 대상이 목적어를 필요로 하는 동사
+
+[1형식]
+S + V -> 완전자동사
+
+A baby sleeps: 아기가 잔다.
+She runs: 그녀는 달린다.
+God exists: 신은 존재한다.
+I stand: 나는 서있다.
+It works: 그것은 작동한다.
+It fits: 그것은 딱 맞다.
+
+[2형식]
+2형식: S + V + SC -> 불완전자동사
+
+보어: 보충 설명하는 친구
+
+I am a docter: 나는 의사다.
+She is cute: 그녀는 귀엽다.
+
+S = C -> 보어는 주어와 동격이거나 주어의 상태를 그대로 보여주는 역할
+
+She is a teacher: 그녀는 선생이다.
+He is cute: 그는 귀엽다.
+She got angry: 그녀는 화가 났다 -> She = angry
+This bread is hard: 이 빵은 딱딱하다 -> This bread = hard
+It seems spicy: 그것은 매워보인다 -> It = spicy
+
+주격보어: 주어를 보충 설명하는 보어
+
+[3형식]
+S + V + O -> 완전타동사
+
+목적어: 주어와 관련이 없는 새로운 요소
+
+He had a hamburger: 그는 햄버거를 먹었다 -> He != hamburger
+
+목적어는 주어와 관련이 없다.
+타동사가 쓰일 때는 목적어가 와야 문장을 완벽하게 완성할 수 있다.
+
+I study English: 나는 영어를 공부한다 -> I != English
+I drink coffee: 나는 커피를 마신다 -> I != coffee
+He knows them: 그는 그들을 안다 -> He != them
+
+[4형식]
+S + V + IO + DO -> 수여동사
+IO: 받는 사람의 정보 / DO: 주어지는 대상
+
+대부분의 4형식 동사가 '~주다' 로 해석하기 때문에 4형식 동사를 '수여동사' 라고 부른다.
+
+I teach Arty English: 나는 아티에게 영어를 가르친다.
+I gave you my love: 나는 너에게 나의 사랑을 주었다.
+
+간접목적어보다 직접목적어가 더 중요하다.
+간접목적어를 생략하면 3형식으로 만들 수 있다.
+
+I gave him a book: 나는 그에게 책 한권을 주었다.
+
+[5형식]
+S + V + O + OC -> 불완전타동사
+
+목적격보어는 목적어를 보충 설명하는 요소로 목적어와 같거나 비슷하다.
+목적격보어가 없으면 문장의 의미가 완전히 성립되지 않는다.
+
+I found the lecture difficult: 나는 그 수업이 어렵다고 생각했다 -> the lecture = difficult
+It makes me special: 그것은 나를 특별하게 만든다 -> me = special
+He makes me happy: 그는 나를 행복하게 만든다 -> me = happy
+You make me laugh: 너는 나를 웃게 만든다 -> me = laugh
+
+[4형식 vs 5형식]
+4 - I made you a cake: 나는 너에게 케이크를 만들어주었다.
+5 - I made you a doctor: 나는 너를 의사로 만들었다.
+4형식 = '~에게 ~을 주다' 로 해석
+5형식 = 목적어와 목적격보어가 동격이거나 비슷한 상태로 해석

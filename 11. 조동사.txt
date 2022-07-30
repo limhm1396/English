@@ -1,0 +1,219 @@
+[조동사]
+동사를 도와주는 역할
+조동사 + 동사원형
+
+[조동사의 역할]
+1. 조동사 + 동사원형
+He speaks English. -> He can speak English.
+2. 의미 추가
+3. 부정문 담당
+He speaks English. -> He can't speak English.
+4. 의문문 담당
+He speaks English. -> Does he speak English?
+*의문문으로 바꿀 때 주어와 동사의 자리가 바뀐다.
+5. 인칭 담당
+6. 시제 담당
+He spoke English -> He could speak English.
+
+[일반조동사]
+의미를 가지지 않고 오직 동사를 보조하는 역할
+be, do, have
+
+[be]
+1. 진행형
+be V-ing: ~하는 중이다
+2. 수동태
+be + PP: ~되다, 지다, 받다
+
+[do]
+1. 의문문 혹은 부정문으로 바꿀 때 사용한다.
+You study English. -> Do you study English? -> You don't study English.
+2. 동사의 의미를 강조하는 부사처럼 사용한다.
+I love you -> I do love you.
+3. 일반동사를 대신하는 대동사로 사용한다.
+I Like your book. -> You do(= like it)?
+
+[have]
+1. 완료시제 -> have PP
+
+[의미조동사]
+의미를 추가하고 보조하는 역할
+can, could, may, might, must, ought to, shall, should, will, would 등
+
+[can]
+1. 의미
+- 능력: ~할 수 있다
+I can speak English.
+You can improve your English!
+- 허락: ~해도 좋다
+Can I go to the bathroom?
+Can I change the color?
+- 가능성: ~할 가능성도 있다
+Bad things can happen.
+
+2. 부정형
+You can't get in there.
+You cannot get in there.
+*can't을 일반적으로 쓰고 cannot은 심각하거나 강조할 때 쓴다.
+
+3. cannot have PP: ~했을 리가 없다
+이미 있었던 일, 소문에 대해서 그럴리가 없어 하고 추측하는 표현
+She cannot have done such a thing.
+
+[could]
+1. 의미
+- 과거의 능력(can의 과거형): ~할 수 있었다
+I could play the drums when I was a high school student.
+- 추측을 담아 가능성을 이야기할 때: 할 수 있을 것 같다.
+I could finish my book soon if you help me.
+Sorry, I couldn't go to the party tonigh.
+- 정중하게 부탁할 때
+Could you please come earlier and help me?
+Could you drive me home please?
+
+2. 부정형
+I couldn't care less.
+I could not agree more.
+
+3. could have PP: ~할 수도 있었을 텐데
+I could've been your girlfriend.
+
+4. couldn't have PP: ~했을 리가 없다, ~할 수가 없었다
+We couldn't have won the game without him.
+I couldn't have said it better myself.
+*긍정 조동사 + have PP는 후회가 담겨있고 부정 조동사 + have PP는 현실을 부정하는 추측인 경우가 많다.
+
+[may]
+can보다 조금 더 조심스럽게 부탁할 때 쓰는 표현
+추측의 의미가 담겨있다.
+
+1. 의미
+- 허락: ~해도 될까요?
+May I help you?
+May I see your ID?
+- 추측: 아마 ~일지도 모른다
+He may be at home.
+As you may know, I am pregnant.
+- 기원문: ~하기를!
+May God be with you!
+May your days be merry and bright!
+
+2. 부정형
+You may not take photos inside the museum.
+I may not always be right, but I'm never wrong.
+
+3. may well: ~하는 것이 당연하다, ~라고 생각하는 것도 무리가 아니다
+You may well say so.
+They may well not cooperate with us.
+
+4. may as well: ~하는 것이 더 낫다
+You may as well give it to me.
+I may as well go to bed now.
+*실제로 추측을 표현할 때 may대신 might를 더 자주 쓴다.
+
+[might]
+1. 의미(약한 추측): ~할지도 모른다
+It might be true.
+She might be right.
+I might be out of town.
+
+2. 부정형
+Writing a poem might not be the best way to ask her out.
+This might not be the most appropriate job for you.
+
+3. might have PP: ~했을지도 모른다
+He might have had an accident.
+
+[would]
+공손하게 제안하거나 원하는 것을 말할 때 자주 쓴다.
+
+1. 의미
+- 과거에 본 미래(will의 과거형): ~할 예정이었다
+She said she would come back before dark.
+- 공손한 제안
+Would you like to have something to eat?
+Would you mind if I join you?
+- 공손한 기호 표시
+I would like to have some Chinese food.
+I would love to spend time with you!
+- 특정 상황을 가정하고 의견을 표현할 때: (~라면)~할, ~일 것 같다
+I would do the same.
+I would never say that.
+I would say no.
+
+2. 부정형
+You wouldn't tell on me, would you?
+Having a child would not be a good idea for us.
+
+3. would rather A than B: B할 바에 차라리 A 하겠다
+I would rather kill myself.
+I would rather walk then take a bus.
+I would rather be deceived than deceive other.
+
+4. would have PP: ~했더라면 ~ 했을텐데
+If she wanted to be a teacher, she would have made an excellent teacher.
+
+[must]
+1. 의미
+- 강력한 의무: 반드시 ~해야 한다
+The youth in Korea must serve in the military.
+You must help each other.
+- 강력한 추측: ~임에 틀림없다
+He must be sick because he never skips his workout.
+You must be joking.
+
+2. 부정형
+You must not lose this medal.
+Beggars must not be choosers.
+
+*must는 매우 강력한 느낌을 주기 때문에 조심해서 써야한다.
+
+3. must have PP: ~했음에 틀림없다
+It must have hurt.
+She must have lied to you.
+
+[have to]
+1. 의미
+- (강력한 의무) ~해야 한다
+You have to brush your teeth morning and night.
+
+2. 부정형
+= ~할 필요가 없다
+You don't have to do this if you don't want to.
+
+*have to는 must만큼이나 강력한 표현이므로 아주 중요한 사안이 아닐 때 have to보다 should를 쓰는게 낫다.
+
+[should]
+가장 유연한 표현으로 일상에서 자주 쓴다.
+
+1. 의무
+- 의무: ~해야한다
+Young people should be educated.
+You shouldn't lie
+- 강력한 제안: 꼭 ~해라
+You should go to see a doctor.
+He shoyld be a singer!
+- 부정형
+You shouldn't change your mind after adopting a dog.
+You shouldn't ask those kind of questions.
+
+2. should have PP: ~를 해야했는데(하지 않았다는 의미)
+You should have seen his face!
+
+3. shouldn't have PP: ~를 하지 말아야 했는데(했다는 의미)
+I shouldn't have said that.
+*should와 현재완료가 만나면 후회를 나타내는 표현이 된다.
+
+[had better]
+= ~해라. 큰코다치기 전에!
+
+1. 의미
+- 충고, 경고: ~ 하는 것이 더 낫다
+You'd better hurry uo.
+You'd better trust me.
+
+2. 부정형: ~하지 않는 것이 더 낫다
+you had better not be doing it.
+There had better not be anything missing.
+
+*had better는 충고보다 경고에 사용된다.

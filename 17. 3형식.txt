@@ -1,0 +1,57 @@
+[3형식의 기본 형태]
+주어 + 동사 + 목적어
+목적어 = 명사, 대명사, to부정사, 동명사, 명사절
+1. 목적어가 사물, 사람, 개념 -> 명사, 대명사
+2. 목적어가 행위를 표현 -> 동명상, to부정사
+3. 목적어가 어떤 사실을 표현 -> 명사절
+
+[대표적인 3형식 동사]
+make, take, get, have, know, think, surprise, meet, prove, consider, imagine, mean, plan
+
+[3형식 동사의 취향]
+1. 주어 자리에는 to부정사보다 동명사를 자주 쓴다.
+2. 동사에 따라 목적어 자리에 to부정사, 동명사를 구분해서 써야하는 경우가 있다.
+
+[to부정사]
+미래, 의무, 적극, 긍정
+*to의 영향으로 방향성을 갖는다.
+
+I promise to keep it secret!
+He plans to retire in 2030.
+I swear to tell the truth.
+
+[동명사]
+과거, 진행, 소극, 부정
+
+I quit smoking for my wife.
+She avoided mentioning drugs.
+I don't mind seeing her again.
+
+[뭐든 상관없는 3형식 동사]
+- begin
+A boy began to cry.
+The car began rolling down.
+
+- start
+A brand-name bag start to depreciate as soon as you use it.
+
+- like
+Who likes babysitting?
+
+- love
+I love to be with you but I need to work.
+
+- hate
+I personally hate shopping.
+
+[뭘 쓰냐에 따라 의미가 달라지는 동사]
+to부정사: 미래, 동명사: 과거
+
+She remembered to set the alarm for me.
+She remembered setting the alarm for me.
+
+He forgot to call his mother.
+He forgot calling his mother.
+
+I regret to say that...
+I regret saying that...

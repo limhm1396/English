@@ -1,0 +1,130 @@
+[분사구문의 뜻]
+3회에 걸쳐 단어가 생략된다는 뜻
+접속사가 붙어 있는 문장을 종속절, 접속사 없이 쓰는 문장을 주절
+종속절은 부사절로, 문장에 부가적인 의미를 더하는 역할
+분사구는 이 종속절에서 접속사, 주어, 시제 등의 문법요소를 생략하고 축약해 분사를 이용한 구로 만드는 것
+
+[분사구문의 탄생]
+When I eat lunch, I always watch Netflix.
+1. 접속사 생략
+I eat lunch, I always watch Netflix.
+2. 주어 생략
+Eat lunch, I always watch Netflix.
+3. 시제 체크
+Eating lunch, I always watch Netflix.
+
+I can relax now because I know that she got home safely.
+-> I can relax now, knowing that she got home safely.
+
+My computer, making static sound, broke down.
+
+[분사구문의 위치]
+1. 문두: V-ing, S + V
+Crying hard, James hugged his mother for the last time.
+2. 문중: S, V-ing, V
+James, crying hard, hugged his mother for the last time.
+3. 문미: S + V, V-ing
+James hugged his mother for the last time, crying hard.
+
+[접속사별 분사구문]
+1. 시간접속사
+when, while, as, after, before
+
+When I was studying, I almost fell asleep.
+1. 접속사 생략
+I was studying, I almost fell asleep.
+2. 주어 생략
+was studying, I almost fell asleep.
+3. 시제체크
+Studying, I almost fell asleep.
+*Being은 생략가능
+
+As I closed the door, I realized that our relationship wouldn't be the same anymore.
+1. 접속사 생략
+I closed the door, I realized that our relationship wouldn't be the same anymore.
+2. 주어 생략
+Closed the door, I realized that our relationship wouldn't be the same anymore.
+3. 시제체크
+Closing the door, I realized that our relationship wouldn't be the same anymore.
+
+2. 부대상황접속사
+and, as, while
+
+You never clean up the kitchen table while you are cooking the food.
+1. 접속사 생략
+You never clean up the kitchen table you are cooking the food.
+2. 주어 생략
+You never clean up the kitchen table are cooking the food.
+3. 시제 체크
+You never clean up the kitchen table, cooking the food.
+
+3. 이유접속사
+because, since, as
+
+He couldn't join us, shince he was ill.
+-> He couldn't join us, being illing.
+*Being은 보통 생략하지만 형용사만 남아있으면 어색하므로 생략하지 않았다.
+
+Because I live in a suburb, I commute to the city by subway.
+-> Living in a suburb, I commute to the city by subway.
+
+4. 양보접속사
+though, even though, although, even if
+
+Even though he is a doctor, he doesn't sound smart at all.
+-> Being a doctor, he doesn't sound smart at all.
+
+5. 조건접속사
+if
+
+If you put yourself in their shoes, you will understand them.
+-> Putting yourself in their shoes, you will understand them.
+*현재형과 미래형은 같은 시제로 봄
+
+[PP 분사구문]
+When I was born a low birth-weight baby, I was expected to live only a few days.
+-> Born a low birth-weight baby, I was expected to live only a few days.
+
+Because he was always scolded by his teacher, he didn't like going to school.
+-> Always scolded by his teacher, he didn't like going to school.
+
+[예외적인 분사구문]
+1. 접속사를 생략하지 않는 경우
+의미를 정확하게 전달하고 싶을 경우 접속사를 생략하지 않는다.
+
+2. 주절과 종속절의 주어가 다른 경우
+As there is food left in the refrigerator, we can survice.
+-> With food left in the refrigerator, we can survice.
+*There being은 어감이 좋지 않아 with로 수정
+
+He was washing the dishes as the television blared in the background.
+-> He was wahsing the dishes with the television blaring in the background.
+
+If we speak frankly, he is a great manager.
+-> Speaking frankly, he is a great manager.
+
+3. 동사의 시제가 다를 경우
+having PP 사용
+
+I am free tonight since I finished my homework yesterday.
+-> I am free tonight, having finished my homework yesterday.
+
+Even though I was born into riches, I now find myself in poverty.
+-> Born into riches, I now find myself in poverty.
+*having been 또한 생략 가능
+
+[Test]
+I had fun because I made sentences in English in my head and spoke in English.
+-> I had fun making sentences in English in my head and speaking in English.
+
+Even though we had a short conversation, we enjoyed the time together!
+-> Even though Having a short conversation, we enjoyed the time together!
+
+We watched a movie and drank wine together.
+-> We watched a movie while dranking wine together.
+
+When I spoke English, I felt very nervous.
+-> I felt very nervous speaking English.
+
+I will be more confident in the future when I meet new friends who are coming from other countries.
+-> I will be more confident in the future meeting new friends who are coming from other countries.

@@ -1,0 +1,119 @@
+[능동태와 수동태]
+- 능동태: 주어가 동사를 직접 행하는 것
+- 수동태: 타인으로부터 동사를 받은 것(주어가 한 행위보다 목적어가 당한 행위에 더 집중하는 경우)
+
+(능동) S + V + O
+-> (수동) S + be PP + (by + N)
+
+[수동태의 종류]
+- be PP
+상태를 강조한다.
+I will be married.
+He was killed.
+
+- get PP
+동작을 강조한다.
+I will get married.
+He got killed.
+
+[수동태의 형태]
+1. 일반시제 수동태: be PP
+I am married.
+If he is kicked out. I will bring him to my place.
+The door was locked.
+The photographs were well displayed in their living room.
+
+2. 진행시제 수동태
+I am being punished by my parents.
+The room is being cleaned by house keepers.
+My English language abilities were being questioned by American companies.
+My car is being towed.
+My essays were being checked by my English professor.
+
+3. 완료시제 수동태
+My English has been improved.
+The laundry has been changed.
+A number of hip hop msicians have been arrested for drug use.
+The mummy's skin had been dried up.
+
+[수동태를 쓰는 이유]
+1. 주어가 누구인지 모를 때
+2. 주어가 누구인지 중요하지 않을 때
+
+Someone stole my cell phone.
+-> My cell phone was stolen (by someone).
+
+Someone killed my brother.
+-> My brother was killed (by someone).
+
+Someone shot Ryan at war.
+-> Ryan was shot (by someone) at war.
+
+[3형식 수동태]
+I ate the cake.
+-> The cake was eaten (by me).
+
+We will have fun.
+-> Fun will be had (by us).
+
+She collects stamps.
+-> Stamps are collected (by her).
+
+[4형식 수동태]
+Arty gave Banana a cake.
+-> Banana was given a cake by Arty.
+-> A cake was given to Banana by Arty.
+
+He handed me the salt and pepper.
+-> I was handed the salt and pepper by him.
+-> The salt and pepper were handed to me by him.
+
+[5형식 수동태]
+I considered the course difficult.
+-> The course was considered difficult by me.
+
+We kept the story a secret.
+The story was kept a secret by us.
+
+[수동태 관용구]
+- be known as: ~으로서 알려져있다.
+Banana is known as a popular English teacher.
+
+- be known for: ~때문에 유명하다.
+Arty is known for being witty.
+
+- be known by: ~에 의해서 알려져있다.
+Banana is known by many people.
+
+- be known to: ~에게 알려져있다.
+Banana is know to many people.
+
+- be made with: 만들어지다.
+Kimchi is mainly made with cabbage and chilli powder.
+
+- be made of: 만들어지다.
+This amazing ring is made of gold.
+
+- be made from: 제조되다.
+Plastic is made from oil.
+
+- be related tp: ~와 관련되다.
+Domestic crimes against women are usually related to drugs and alcoholism.
+
+- be born: 태어나다.
+I was born in Korea.
+
+- be married: 결혼하다.
+I've been married for over 20 years now.
+
+- be gone: 사라지다.
+All I have written is gone.
+
+- be done: 끝내다.
+I am done with this job.
+
+- be supposed to V: ~하도록 되어있다.
+What am I supposed to do?
+
+- be forced to V: ~하도록 강요받다.
+Woman are forced to leave work after they get pregnant.

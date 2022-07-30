@@ -1,0 +1,22 @@
+[대표적인 4형식 동사]
+give, hand, make, call, bring, show, ask, pay, cook, feed, play, get, lend, send
+
+[4형식의 기본 형태]
+S + V + IO + DO
+= ~에게 ~를 주다
+
+Banana teacher gives us examples of how to use English grammar.
+Would you please hand me the salt and pepper?
+
+[간접목적어와 직접목적어]
+IO: ~에게 -> 명사, 대명사
+DO: ~을 -> 명사, 대명사, 명사절
+
+[4형식과 3형식]
+I gave him my phone number.
+-> I gave my phone number to him.
+
+I made her some cookies.
+-> I made some cookies for her.
+
+*4형식 -> 3형식: S + V + IO + DO -> S + V + DO + 전치사 + IO
